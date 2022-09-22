@@ -1,5 +1,5 @@
 # Deformable Graph Convolutional Networks
-This repository is the implementation of Deformable Graph Convolutional Networks~(Deformable GCNs).
+This repository is the implementation of Deformable Graph Convolutional Networks (Deformable GCNs).
 
 > Jinyoung Park, Sungdong Yoo, Jihwan Park, Hyunwoo J. Kim, Deformable Graph Convolutional Networks, In AAAI Conference on Artificial Intelligence (AAAI) 2022.
 > 
