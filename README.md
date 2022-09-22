@@ -6,7 +6,7 @@ This repository is the implementation of Deformable Graph Convolutional Networks
 
 
 ### Environmental Setup
-
+We provide the datasets via this [link](https://drive.google.com/drive/folders/1kGRXmZEhS3Cou9Qp-J5FYccC-4ASXZeK?usp=sharing).
 ```bash
 # Python version : 3.8.13, Cuda version : 10.2
 $ conda env create --file env.yaml
