@@ -8,6 +8,7 @@ This repository is the implementation of Deformable Graph Convolutional Networks
 ### Environmental Setup
 
 ```bash
+# Python version : 3.8.13, Cuda version : 10.2
 $ conda env create --file env.yaml
 $ conda activate deformablegcn
 ```
